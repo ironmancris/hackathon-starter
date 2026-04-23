@@ -1,5 +1,5 @@
-$(document).ready(function() {
+/* global $ */
 
+$(() => {
   // Place JavaScript code here...
-
 });
